@@ -3,3 +3,5 @@ Sample text for test file.
 More sample text to test updating this file with git commit.
 
 Even more sample text.
+
+More text for stash testing.
